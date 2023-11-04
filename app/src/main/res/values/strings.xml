@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Daniel</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="log">Enter a Name</string>
+    <string name="logpas">Password</string>
+    <string name="pasbox">Enter Password</string>
+    <string name="errLogin">Invalid Login</string>
+    <string name="errPass">Invalid Pass</string>
+</resources>
